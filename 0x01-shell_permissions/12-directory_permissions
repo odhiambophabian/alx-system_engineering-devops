@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir -m 7$1 my-dir
